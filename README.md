@@ -1,1 +1,1 @@
-Project from udemy python course
+Project created for udemy python course
